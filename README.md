@@ -6,6 +6,8 @@
 
 ### Apps
 
+---
+
 ### 🌳 Grove, Visualize your growth.
 <p align="center">
 <img width="140" src="https://github.com/resurrectdev1/ResurrectDev-App-Suite/blob/main/assets/Grove_app_icon.png">
