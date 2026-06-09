@@ -12,10 +12,9 @@
 </p>
 Whether you're maintaining sobriety, breaking harmful habits, or building positive routines, Grove helps you stay focused on consistent progress. Watch your streaks grow, track meaningful milestones, and cultivate a forest of procedurally generated fractal trees that evolve alongside your journey. Every day of progress helps something beautiful take root.
 
----
-
 Highlights: Fractal tree forest · Dynamic layouts (3D, carousel, grid, list) · Material You · Peak Sweep analytics · Home screen widgets · Biometric privacy · Fully offline
 
+---
 <p align="center">
 <a href="https://github.com/resurrectdev1/Grove/releases/latest">
 <img src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" alt="Get it on GitHub" height="70"/></a>
@@ -36,10 +35,9 @@ Highlights: Fractal tree forest · Dynamic layouts (3D, carousel, grid, list) ·
 </p>
 Whether you're syncing your favourite songs, preserving lyrics for offline players, or just want your music experience to feel complete, Lrc-R helps you create perfect synced lyrics files with ease. Tap along to your music, stamp each line with a precise timestamp, and export a ready-to-use .lrc file, all processed locally on your device.
 
----
-
 Highlights: Tap-to-tag stamping · Full playback control (scrub, skip, speed) · Live line editing · Material You · Flexible export · Draft autosave · Fully offline
 
+---
 <p align="center">
 <a href="https://github.com/resurrectdev1/Lrc-R/releases/latest">
 <img src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" alt="Get it on GitHub" height="70"/></a>
@@ -60,10 +58,9 @@ Highlights: Tap-to-tag stamping · Full playback control (scrub, skip, speed) ·
 </p>
 Whether you're organizing a massive offline archive, fixing messy metadata, or curating the perfect local playlist, Flac-R helps you keep your music collection pristine. Edit tags, manage embedded album art, and organize your audio files with a clean, intuitive tool that puts you in complete control of your local music library.
 
----
-
 Highlights: Comprehensive tag editing · Album art management · Material You · Minimalist utility-first design · Privacy focused · Fully offline
 
+---
 <p align="center">
 <a href="https://github.com/resurrectdev1/Flac-R/releases/latest">
 <img src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" alt="Get it on GitHub" height="70"/></a>
@@ -77,6 +74,8 @@ Highlights: Comprehensive tag editing · Album art management · Material You ·
 <p align="center">
   <a href="https://github.com/resurrectdev1/Flac-R">→ View Repository</a>
 </p>
+
+---
 
 ### Support the Suite
 
