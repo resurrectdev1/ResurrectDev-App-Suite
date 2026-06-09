@@ -1,4 +1,4 @@
-<h1 align="center">🌿 ResurrectDev App Suite</h1>
+<h1 align="center">ResurrectDev App Suite</h1>
 <h3 align="center">Free, open-source Android apps made for the people, by the people.</h3>
 
 <p align="center">
