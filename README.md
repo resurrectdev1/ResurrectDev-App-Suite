@@ -10,7 +10,7 @@
 
 ---
 
-## 🌳 Grove — *Visualize your growth.*
+## 🌳 Grove • *Visualize your growth.*
 
 <table>
 <tr>
@@ -34,7 +34,7 @@ Whether you're maintaining sobriety, breaking harmful habits, or building positi
 
 ---
 
-## 🎧 Lrc-R — *Read the rhythm.*
+## 🎧 Lrc-R • *Read the rhythm.*
 
 <table>
 <tr>
@@ -58,7 +58,7 @@ Create perfect synced lyrics files with ease. Tap along to your music, stamp eac
 
 ---
 
-## 🎵 Flac-R — *Perfect your collection.*
+## 🎵 Flac-R • *Perfect your collection.*
 
 <table>
 <tr>
