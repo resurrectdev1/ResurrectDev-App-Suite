@@ -4,9 +4,9 @@
   No subscriptions. No ads. No data harvesting. Just software that respects you.
 </p>
 
-Apps
+##Apps
 
-🌳 Grove, Visualize your growth.
+##🌳 Grove, Visualize your growth.
 <p align="center">
 <img width="140" src="https://github.com/resurrectdev1/ResurrectDev-App-Suite/blob/main/assets/Grove_app_icon.png">
 </p>
@@ -27,7 +27,7 @@ Highlights: Fractal tree forest · Dynamic layouts (3D, carousel, grid, list) ·
   <a href="https://github.com/resurrectdev1/Grove">→ View Repository</a>
 </p>
 
-🎵 Lrc-R, Read the rhythm.
+##🎵 Lrc-R, Read the rhythm.
 <p align="center">
 <img width="140" src="https://github.com/resurrectdev1/ResurrectDev-App-Suite/blob/main/assets/Lrc-R_app_icon.png">
 </p>
@@ -48,7 +48,7 @@ Highlights: Tap-to-tag stamping · Full playback control (scrub, skip, speed) ·
   <a href="https://github.com/resurrectdev1/Lrc-R">→ View Repository</a>
 </p>
 
-💿 Flac-R, Perfect your collection.
+##💿 Flac-R, Perfect your collection.
 <p align="center">
 <img width="140" src="https://github.com/resurrectdev1/ResurrectDev-App-Suite/blob/main/assets/Flac-R_app_icon.png">
 </p>
@@ -69,7 +69,8 @@ Highlights: Comprehensive tag editing · Album art management · Material You ·
   <a href="https://github.com/resurrectdev1/Flac-R">→ View Repository</a>
 </p>
 
-Support the Suite
+##Support the Suite
+
 All apps are free forever with no subscriptions, no ads, no data harvesting. If any of these apps have made your life a little better, consider supporting continued development so they can keep growing.
 <p align="center">
 <a href="https://buymeacoffee.com/resurrect">
