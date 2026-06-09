@@ -1,5 +1,5 @@
 <h1 align="center">🌿 ResurrectDev App Suite</h1>
-<h3 align="center">Free, open-source Android apps — for the people, by the people.</h3>
+<h3 align="center">Free, open-source Android apps made for the people, by the people.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/No_Subscriptions-4CAF50?style=flat-square&logoColor=white" alt="No Subscriptions">
@@ -34,7 +34,7 @@ Whether you're maintaining sobriety, breaking harmful habits, or building positi
 
 ---
 
-## 🎵 Lrc-R — *Read the rhythm.*
+## 🎧 Lrc-R — *Read the rhythm.*
 
 <table>
 <tr>
@@ -58,7 +58,7 @@ Create perfect synced lyrics files with ease. Tap along to your music, stamp eac
 
 ---
 
-## 💿 Flac-R — *Perfect your collection.*
+## 🎵 Flac-R — *Perfect your collection.*
 
 <table>
 <tr>
@@ -70,7 +70,7 @@ Create perfect synced lyrics files with ease. Tap along to your music, stamp eac
 </td>
 <td valign="top">
 
-Keep your music collection pristine. Edit tags, manage embedded album art, and organize your local audio files with a clean, intuitive tool that puts you in complete control of your library — no server scanning, no telemetry, no cloud.
+Keep your music collection pristine. Edit tags, manage embedded album art, and organize your local audio files with a clean, intuitive tool that puts you in complete control of your library, no server scanning, no telemetry, no cloud.
 
 `Comprehensive tag editing` `Album art management` `Material You` `Minimalist design` `Privacy focused` `Fully offline`
 
@@ -84,7 +84,7 @@ Keep your music collection pristine. Edit tags, manage embedded album art, and o
 
 ## Support the Suite
 
-All apps are **free forever** — no subscriptions, no ads, no data harvesting. If any of these have made your life a little better, consider supporting continued development so they can keep growing.
+All apps are **free forever...** that means no subscriptions, no ads, no data harvesting. So if any of these have made your life a little better, consider supporting continued development so they can keep growing.
 
 <p align="center">
 <a href="https://buymeacoffee.com/resurrect">
