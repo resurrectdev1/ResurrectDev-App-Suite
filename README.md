@@ -75,8 +75,6 @@ Highlights: Comprehensive tag editing · Album art management · Material You ·
   <a href="https://github.com/resurrectdev1/Flac-R">→ View Repository</a>
 </p>
 
----
-
 ### Support the Suite
 
 All apps are free forever with no subscriptions, no ads, no data harvesting. If any of these apps have made your life a little better, consider supporting continued development so they can keep growing.
@@ -86,6 +84,8 @@ All apps are free forever with no subscriptions, no ads, no data harvesting. If 
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="60" alt="Buy me a Coffee"/>
 </a>
 </p>
+
+---
 
 ### License
 
