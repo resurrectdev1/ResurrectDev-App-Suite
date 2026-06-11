@@ -22,7 +22,7 @@
 </td>
 <td valign="top" padding="10">
 
-Whether you're maintaining sobriety, breaking harmful habits, or building positive routines, **Grove** helps you stay focused on consistent progress. Watch your streaks grow, track meaningful milestones, and cultivate a forest of procedurally generated fractal trees that evolve alongside your journey.
+Whether you're maintaining sobriety, breaking harmful habits, or building positive routines, **Grove** helps you stay focused on consistent progress. Watch your streaks grow, track meaningful milestones, and cultivate a forest of procedurally generated fractal trees that evolve alongside your journey. Every day of progress helps something beautiful take root.
 
 `Fractal tree forest` `Dynamic layouts` `Material You` `Peak Sweep analytics` `Home screen widgets` `Biometric lock` `Fully offline`
 
