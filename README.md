@@ -46,7 +46,7 @@ Whether you're maintaining sobriety, breaking harmful habits, or building positi
 </td>
 <td valign="top">
 
-Create perfect synced lyrics files with ease. Tap along to your music, stamp each line with a precise timestamp, and export a ready-to-use `.lrc` file — all processed locally on your device. Whether you're syncing favourites, preserving lyrics for offline players, or just making your music feel complete.
+Whether you're syncing your favourite songs, preserving lyrics for offline players, or just want your music experience to feel complete, **Lrc-R** helps you create perfect synced lyrics files with ease. Tap along to your music, stamp each line with a precise timestamp, and export a ready-to-use `.lrc` file, all processed locally on your device.
 
 `Tap-to-tag stamping` `Scrub · skip · speed control` `Live line editing` `Material You` `Flexible export` `Draft autosave` `Fully offline`
 
