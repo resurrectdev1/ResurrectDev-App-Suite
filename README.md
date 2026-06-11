@@ -70,7 +70,7 @@ Whether you're syncing your favourite songs, preserving lyrics for offline playe
 </td>
 <td valign="top">
 
-Keep your music collection pristine. Edit tags, manage embedded album art, and organize your local audio files with a clean, intuitive tool that puts you in complete control of your library, no server scanning, no telemetry, no cloud.
+Whether you're organizing a massive offline archive, fixing messy metadata, or curating your perfect playlist, **Flac-R** helps you keep your local music collection pristine. With suppourt for .mp3 .flac .m4a .ogg & .aac you can seamlessly edit tags, manage embedded album art, and organize your audio files with a clean, intuitive tool that gives you complete control over your local music library. 
 
 `Comprehensive tag editing` `Album art management` `Material You` `Minimalist design` `Privacy focused` `Fully offline`
 
