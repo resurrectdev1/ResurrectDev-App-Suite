@@ -1,0 +1,70 @@
+{
+    "apps": [
+        {
+            "id": "com.resurrect.grove",
+            "url": "https://github.com/resurrectdev1/Grove",
+            "author": "resurrectdev1",
+            "name": "Grove",
+            "installedVersion": "v0.6.2",
+            "latestVersion": "v0.6.2",
+            "apkUrls": "[[\"app-arm64-v8a-release.apk\",\"https://api.github.com/repos/resurrectdev1/Grove/releases/assets/441387987\"]]",
+            "otherAssetUrls": "[[\"app-armeabi-v7a-release.apk\",\"https://api.github.com/repos/resurrectdev1/Grove/releases/assets/441387801\"],[\"app-x86_64-release.apk\",\"https://api.github.com/repos/resurrectdev1/Grove/releases/assets/441388033\"],[\"v0.6.2.tar.gz\",\"https://api.github.com/repos/resurrectdev1/Grove/tarball/v0.6.2\"],[\"v0.6.2.zip\",\"https://api.github.com/repos/resurrectdev1/Grove/zipball/v0.6.2\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
+            "lastUpdateCheck": 1781156172104401,
+            "pinned": false,
+            "categories": [
+                "Resurrect Apps"
+            ],
+            "releaseDate": 1780889183000000,
+            "changeLog": "# 🌲 Grove v0.6.2 - Notifications revamp & Renaming + Reorganizing features\r\n\r\n --- \r\n\r\n### Whats new?\r\n\r\n- Change hard coded version in info tab to match current version automatically via \"package_info_plus\"\r\n\r\n- Revamp notifications to show tree milestones instead of daily set reminder to open the app\r\n\r\n- Upgraded flutter dependencys\r\n\r\n- Fix Grove backup.json displaying (1) after .json by adding specific time to backup\r\n\r\n- Allow renaming habits in habit detail screen\r\n\r\n- Allow rearranging trees in settings hub\r\n\r\n- Remove vestigial swipe to delete habit feature\r\n\r\n ---\r\n\r\n ### Install \r\n\r\nDownload and sideload `app-release.apk` - Android only. > You may need to enable **Install from unknown sources** in your Android settings.",
+            "overrideSource": null,
+            "allowIdChange": false,
+            "pendingRepoRenameUrl": null
+        },
+        {
+            "id": "com.resurrect.flac_r",
+            "url": "https://github.com/resurrectdev1/Flac-R",
+            "author": "resurrectdev1",
+            "name": "Flac-R",
+            "installedVersion": "v0.4.8",
+            "latestVersion": "v0.4.8",
+            "apkUrls": "[[\"app-arm64-v8a-release.apk\",\"https://api.github.com/repos/resurrectdev1/Flac-R/releases/assets/444352426\"]]",
+            "otherAssetUrls": "[[\"app-armeabi-v7a-release.apk\",\"https://api.github.com/repos/resurrectdev1/Flac-R/releases/assets/444352334\"],[\"app-x86_64-release.apk\",\"https://api.github.com/repos/resurrectdev1/Flac-R/releases/assets/444352501\"],[\"v0.4.8.tar.gz\",\"https://api.github.com/repos/resurrectdev1/Flac-R/tarball/v0.4.8\"],[\"v0.4.8.zip\",\"https://api.github.com/repos/resurrectdev1/Flac-R/zipball/v0.4.8\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
+            "lastUpdateCheck": 1781156193599392,
+            "pinned": false,
+            "categories": [
+                "Resurrect Apps"
+            ],
+            "releaseDate": 1781153021000000,
+            "changeLog": "# 🎵 Flac-R v0.4.8 - More music format support (.m4a .ogg .aac) & Back end improvements\r\n\r\n --- \r\n\r\n### Whats new?\r\n\r\n- Added support for .m4a .ogg & .aac\r\n\r\n- Info section version automatic via package_info_plus\r\n\r\n- Reload library after on-boarding, removing folder, and adding folder\r\n\r\n- Fixed cache album cover art not changing when reloading library\r\n\r\n- Fixed year tagging no safegaurds\r\n\r\n- Bug fixes\r\n\r\n- Made in app text more concise & resonate better with changes implemented above\r\n\r\n ---\r\n\r\n ### Install \r\n\r\nDownload and sideload `app-release.apk` - Android only. > You may need to enable **Install from unknown sources** in your Android settings.",
+            "overrideSource": null,
+            "allowIdChange": false,
+            "pendingRepoRenameUrl": null
+        },
+        {
+            "id": "com.resurrect.lrc_r",
+            "url": "https://github.com/resurrectdev1/Lrc-R",
+            "author": "resurrectdev1",
+            "name": "Lrc-R",
+            "installedVersion": "v0.2.4",
+            "latestVersion": "v0.2.4",
+            "apkUrls": "[[\"app-arm64-v8a-release.apk\",\"https://api.github.com/repos/resurrectdev1/Lrc-R/releases/assets/442353831\"]]",
+            "otherAssetUrls": "[[\"app-armeabi-v7a-release.apk\",\"https://api.github.com/repos/resurrectdev1/Lrc-R/releases/assets/442353762\"],[\"app-x86_64-release.apk\",\"https://api.github.com/repos/resurrectdev1/Lrc-R/releases/assets/442353869\"],[\"v0.2.4.tar.gz\",\"https://api.github.com/repos/resurrectdev1/Lrc-R/tarball/v0.2.4\"],[\"v0.2.4.zip\",\"https://api.github.com/repos/resurrectdev1/Lrc-R/zipball/v0.2.4\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
+            "lastUpdateCheck": 1781156213894666,
+            "pinned": false,
+            "categories": [
+                "Resurrect Apps"
+            ],
+            "releaseDate": 1780975192000000,
+            "changeLog": "# 🎧 Lrc-R v0.2.4 - Initial release!\r\n\r\n --- \r\n\r\n### Whats new?\r\n\r\n- Tap timestamp to seek from lyrics\r\n\r\n-  Upgraded flutter dependency's\r\n\r\n- Confetti after tagging all lines!\r\n\r\n- Remove dead widgets\r\n\r\n- Multi language tag support\r\n\r\n- Better parse system and import feature for lyrics\r\n\r\n ---\r\n\r\n ### Install \r\n\r\nDownload and sideload `app-release.apk` - Android only. > You may need to enable **Install from unknown sources** in your Android settings.",
+            "overrideSource": null,
+            "allowIdChange": false,
+            "pendingRepoRenameUrl": null
+        }
+    ]
+}
